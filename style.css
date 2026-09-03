@@ -76,10 +76,10 @@ h3 {
 }
 
 .hero .profile-photo {
-    width: 180px !important;
-    height: 180px !important;
-    object-fit: cover !important;
-    border-radius: 50% !important;
-    display: block !important;
-    margin: 0 auto 20px auto !important;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px auto;
 }
