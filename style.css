@@ -83,3 +83,12 @@ h3 {
     display: block;
     margin: 0 auto 20px auto;
 }
+
+.profile-photo {
+    width: 180px !important;
+    height: 180px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+    display: block !important;
+    margin: 0 auto 20px auto !important;
+}
